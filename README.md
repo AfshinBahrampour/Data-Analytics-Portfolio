@@ -37,14 +37,14 @@ This project analyzes health expenditure data to uncover spending trends across 
 - Per capita health spending visualized on a world map.
 
 #### Visualizations
-![Line Chart of Total Spend Above Average](./images/picture6_line_chart.jpg)
-![Pie Chart of Health Spend by Country](./images/picture5_pie_chart.jpg)
-![Table of Country Health Data](./images/picture4_table.jpg)
+![Line Chart of Total Spend Above Average](images/picture6_line_chart.jpg)
+![Pie Chart of Health Spend by Country](images/picture5_pie_chart.jpg)
+![Table of Country Health Data](images/picture4_table.jpg)
 
 #### Files
-- [Power BI Dashboard](./files/picture6.pbix)
-- [SQL Query](./files/healthdataquerry.sql)
-- [Health Data CSV](./files/healthdata.csv)
+- [Power BI Dashboard](files/picture6.pbix)
+- [SQL Query](files/healthdataquerry.sql)
+- [Health Data CSV](files/healthdata.csv)
 
 ---
 
@@ -63,14 +63,14 @@ This project explores yearly spending data to identify spending patterns for var
 - Global distribution of per capita spending visualized through maps.
 
 #### Visualizations
-![Spend Trends Over Time](./images/picture3_line_chart.jpg)
-![Map of Per Capita Spending](./images/picture2_map.jpg)
-![Bar Chart of Yearly Spending](./images/picture1_bar_chart.jpg)
+![Spend Trends Over Time](images/picture3_line_chart.jpg)
+![Map of Per Capita Spending](images/picture2_map.jpg)
+![Bar Chart of Yearly Spending](images/picture1_bar_chart.jpg)
 
 #### Files
-- [Power BI Dashboard](./files/picture1.pbix)
-- [CSV: Yearly Spend Data](./files/AVG_SPEND_PER_YEAR.csv)
-- [CSV: Per Capita Spending](./files/USD_CAP_each_country.csv)
+- [Power BI Dashboard](files/picture1.pbix)
+- [CSV: Yearly Spend Data](files/AVG_SPEND_PER_YEAR.csv)
+- [CSV: Per Capita Spending](files/USD_CAP_each_country.csv)
 
 ---
 
