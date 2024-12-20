@@ -69,11 +69,6 @@ The following datasets were used in these projects:
   - Creating meaningful insights through visualizations.
   - Proficient in SQL queries and Power BI report building.
 
-## Contact Information
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **GitHub:** [Your GitHub Profile Link]
-- **Email:** [Your Email Address]
-
 ---
 
 Feel free to explore the projects, datasets, and visualizations. Let me know if you have any feedback or suggestions for improvement!
