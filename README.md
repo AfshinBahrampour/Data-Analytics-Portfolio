@@ -1,95 +1,79 @@
-# Data Analytics Portfolio
+# Afshin Bahrampour - Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! This repository showcases my projects and demonstrates my skills in SQL, Power BI, and data visualization. Each project includes a description, insights, and links to relevant files.
-
----
+Welcome to my data analytics portfolio! I am Afshin Bahrampour, a data analyst with expertise in Power BI, SQL, and Excel, focused on uncovering actionable insights from diverse datasets. This repository showcases my analytical projects and visualizations, highlighting my technical skills and problem-solving capabilities.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Projects](#projects)
-   - [1. Health Data Analysis](#1-health-data-analysis)
-   - [2. Country Spend Analysis](#2-country-spend-analysis)
-3. [Skills](#skills)
-4. [Contact](#contact)
-
----
+- [Introduction](#introduction)
+- [Projects](#projects)
+  - [1. Healthcare Spending Analysis](#1-healthcare-spending-analysis)
+  - [2. Global Healthcare Expenditure Mapping](#2-global-healthcare-expenditure-mapping)
+  - [3. Yearly Spending Insights](#3-yearly-spending-insights)
+- [Datasets](#datasets)
+- [Tools & Skills](#tools--skills)
+- [Contact Information](#contact-information)
 
 ## Introduction
-
-I am a data analyst with expertise in SQL, Power BI, and data visualization. I specialize in extracting actionable insights from complex datasets and presenting them in an intuitive and meaningful way. Below, you'll find projects showcasing my work.
-
----
+This portfolio includes data analysis projects conducted on global healthcare spending trends. Using datasets and tools like Power BI, SQL, and Excel, I analyzed trends, identified patterns, and created visualizations to present insights clearly.
 
 ## Projects
 
-### 1. Health Data Analysis
+### 1. Healthcare Spending Analysis
+**Objective:** Analyze global trends and patterns in healthcare spending over time.
 
-#### Overview
-This project analyzes health expenditure data to uncover spending trends across different countries and years.
+- **Key Highlights:**
+  - Total spending above average by time (1970–2015).
+  - Health spending distribution by countries.
+  - Year-wise trends showcasing participation and changes.
+- **Visualizations:**
+  - ![Total Spending Above Average](path/to/picture6linechart.jpg)
+  - ![Health Spending by Country](path/to/picture5piechart.jpg)
+  - ![Yearly Data Table](path/to/picture4table.jpg)
 
-#### Tools Used
-- **SQL**: Data extraction and transformation
-- **Power BI**: Visualization and dashboard creation
+### 2. Global Healthcare Expenditure Mapping
+**Objective:** Map global healthcare expenditure on a per-capita basis.
 
-#### Key Insights
-- Total health spend trends over time, highlighting major increases from 1980 to 2010.
-- Country-level health spend distribution using pie charts and tables.
-- Per capita health spending visualized on a world map.
+- **Key Highlights:**
+  - USD per capita spending visualized geographically.
+- **Visualization:**
+  - ![Expenditure Map](path/to/picture3.jpg)
 
-#### Visualizations
-![Line Chart of Total Spend Above Average](images/picture6_line_chart.jpg)
-![Pie Chart of Health Spend by Country](images/picture5_pie_chart.jpg)
-![Table of Country Health Data](images/picture4_table.jpg)
+### 3. Yearly Spending Insights
+**Objective:** Highlight average yearly spending trends across countries.
 
-#### Files
-- [Power BI Dashboard](files/picture6.pbix)
-- [SQL Query](files/healthdataquerry.sql)
-- [Health Data CSV](files/healthdata.csv)
+- **Key Highlights:**
+  - Trends in average spending per year.
+  - Country participation trends over decades.
+- **Visualizations:**
+  - ![Average Spending per Year](path/to/picture2.jpg)
+  - ![Country Participation Trends](path/to/picture1.jpg)
 
----
+## Datasets
+The following datasets were used in these projects:
+1. **TOTAL_SPEND_ABOVE_AVG.csv**: Analysis of spending above average.
+2. **avg_country_each_year.csv**: Average spending trends by country.
+3. **min_max_year_each_country.csv**: Minimum and maximum years by country.
+4. **USD_CAP_each_country.csv**: Healthcare spending per capita.
+5. **AVG_SPEND_PER_YEAR.csv**: Average spending trends by year.
+6. **total_country.csv**: Total countries analyzed over time.
+7. **total_healthspend.csv**: Aggregate health spending data.
+8. **year_count.csv**: Count of years for each country.
+9. **healthdata.csv**: Comprehensive healthcare dataset.
 
-### 2. Country Spend Analysis
+## Tools & Skills
+- **Tools:**
+  - Power BI: For interactive dashboards and visualizations.
+  - SQL: For querying and transforming datasets.
+  - Excel: For data cleaning and analysis.
+- **Skills:**
+  - Data wrangling and cleaning.
+  - Creating meaningful insights through visualizations.
+  - Proficient in SQL queries and Power BI report building.
 
-#### Overview
-This project explores yearly spending data to identify spending patterns for various countries.
-
-#### Tools Used
-- **SQL**: Aggregating and filtering country-level spending data
-- **Power BI**: Visualizing key metrics and trends
-
-#### Key Insights
-- Average spend per year shows consistent growth.
-- Minimum and maximum spending years per country highlighted in a detailed table.
-- Global distribution of per capita spending visualized through maps.
-
-#### Visualizations
-![Spend Trends Over Time](images/picture3_line_chart.jpg)
-![Map of Per Capita Spending](images/picture2_map.jpg)
-![Bar Chart of Yearly Spending](images/picture1_bar_chart.jpg)
-
-#### Files
-- [Power BI Dashboard](files/picture1.pbix)
-- [CSV: Yearly Spend Data](files/AVG_SPEND_PER_YEAR.csv)
-- [CSV: Per Capita Spending](files/USD_CAP_each_country.csv)
-
----
-
-## Skills
-
-- **SQL**: Advanced query writing, data extraction, and transformation
-- **Power BI**: Data modeling, DAX calculations, and visualization design
-- **Data Visualization**: Communicating insights through intuitive visuals
-- **Data Analysis**: Trend analysis, anomaly detection, and predictive insights
+## Contact Information
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **GitHub:** [Your GitHub Profile Link]
+- **Email:** [Your Email Address]
 
 ---
 
-## Contact
-
-Feel free to reach out for collaborations or queries:
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
-
----
-
-Thank you for exploring my portfolio!
+Feel free to explore the projects, datasets, and visualizations. Let me know if you have any feedback or suggestions for improvement!
