@@ -68,6 +68,10 @@ The following datasets were used in these projects:
   - Data wrangling and cleaning.
   - Creating meaningful insights through visualizations.
   - Proficient in SQL queries and Power BI report building.
+## Contact Information
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **GitHub:** [Your GitHub Profile Link]
+- **Email:** [Your Email Address]
 
 ---
 
