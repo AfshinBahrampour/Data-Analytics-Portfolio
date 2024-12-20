@@ -25,9 +25,9 @@ This portfolio includes data analysis projects conducted on global healthcare sp
   - Health spending distribution by countries.
   - Year-wise trends showcasing participation and changes.
 - **Visualizations:**
-  - ![Total Spending Above Average](path/to/picture6linechart.jpg)
-  - ![Health Spending by Country](path/to/picture5piechart.jpg)
-  - ![Yearly Data Table](path/to/picture4table.jpg)
+  - ![Total Spending Above Average](picture6linechart.jpg)
+  - ![Health Spending by Country](picture5piechart.jpg)
+  - ![Yearly Data Table](picture4table.jpg)
 
 ### 2. Global Healthcare Expenditure Mapping
 **Objective:** Map global healthcare expenditure on a per-capita basis.
@@ -35,7 +35,7 @@ This portfolio includes data analysis projects conducted on global healthcare sp
 - **Key Highlights:**
   - USD per capita spending visualized geographically.
 - **Visualization:**
-  - ![Expenditure Map](path/to/picture3.jpg)
+  - ![Expenditure Map](picture3.jpg)
 
 ### 3. Yearly Spending Insights
 **Objective:** Highlight average yearly spending trends across countries.
@@ -44,8 +44,8 @@ This portfolio includes data analysis projects conducted on global healthcare sp
   - Trends in average spending per year.
   - Country participation trends over decades.
 - **Visualizations:**
-  - ![Average Spending per Year](path/to/picture2.jpg)
-  - ![Country Participation Trends](path/to/picture1.jpg)
+  - ![Average Spending per Year](picture2.jpg)
+  - ![Country Participation Trends](picture1.jpg)
 
 ## Datasets
 The following datasets were used in these projects:
