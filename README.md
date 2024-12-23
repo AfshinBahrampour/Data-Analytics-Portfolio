@@ -25,9 +25,9 @@ This portfolio includes data analysis projects conducted on global healthcare sp
   - Health spending distribution by countries.
   - Year-wise trends showcasing participation and changes.
 - **Visualizations:**
-  - ![Total Spending Above Average](https://imgur.com/gN8gDP7)
-  - ![Health Spending by Country](https://imgur.com/oqWev0E)
-  - ![Yearly Data Table](https://imgur.com/X0scalz)
+  - ![Total Spending Above Average](images/picture1.jpg)
+  - ![Health Spending by Country](images/picture2.jpg)
+  - ![Yearly Data Table](images/picture4table.jpg)
 
 ### 2. Global Healthcare Expenditure Mapping
 **Objective:** Map global healthcare expenditure on a per-capita basis.
@@ -35,7 +35,7 @@ This portfolio includes data analysis projects conducted on global healthcare sp
 - **Key Highlights:**
   - USD per capita spending visualized geographically.
 - **Visualization:**
-  - ![Expenditure Map](https://imgur.com/Ahxq20J)
+  - ![Expenditure Map](images/picture3.jpg)
 
 ### 3. Yearly Spending Insights
 **Objective:** Highlight average yearly spending trends across countries.
@@ -44,8 +44,8 @@ This portfolio includes data analysis projects conducted on global healthcare sp
   - Trends in average spending per year.
   - Country participation trends over decades.
 - **Visualizations:**
-  - ![Average Spending per Year](https://imgur.com/L1nhDgL)
-  - ![Country Participation Trends](https://imgur.com/FTpSox2)
+  - ![Average Spending per Year](images/picture5piechart.jpg)
+  - ![Country Participation Trends](images/picture6linechart.jpg)
 
 ## Datasets
 The following datasets were used in these projects:
@@ -68,6 +68,7 @@ The following datasets were used in these projects:
   - Data wrangling and cleaning.
   - Creating meaningful insights through visualizations.
   - Proficient in SQL queries and Power BI report building.
+
 ## Contact Information
 - **LinkedIn:** [Your LinkedIn Profile Link]
 - **GitHub:** [Your GitHub Profile Link]
